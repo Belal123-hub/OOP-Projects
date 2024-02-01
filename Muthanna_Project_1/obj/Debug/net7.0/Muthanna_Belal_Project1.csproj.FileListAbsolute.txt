@@ -1,0 +1,14 @@
+C:\Users\Belal\Downloads\opencv\Muthanna_Belal_Project1\Muthanna_Belal_Project1\bin\Debug\net7.0\Muthanna_Belal_Project1.exe
+C:\Users\Belal\Downloads\opencv\Muthanna_Belal_Project1\Muthanna_Belal_Project1\bin\Debug\net7.0\Muthanna_Belal_Project1.deps.json
+C:\Users\Belal\Downloads\opencv\Muthanna_Belal_Project1\Muthanna_Belal_Project1\bin\Debug\net7.0\Muthanna_Belal_Project1.runtimeconfig.json
+C:\Users\Belal\Downloads\opencv\Muthanna_Belal_Project1\Muthanna_Belal_Project1\bin\Debug\net7.0\Muthanna_Belal_Project1.dll
+C:\Users\Belal\Downloads\opencv\Muthanna_Belal_Project1\Muthanna_Belal_Project1\bin\Debug\net7.0\Muthanna_Belal_Project1.pdb
+C:\Users\Belal\Downloads\opencv\Muthanna_Belal_Project1\Muthanna_Belal_Project1\obj\Debug\net7.0\Muthanna_Belal_Project1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Belal\Downloads\opencv\Muthanna_Belal_Project1\Muthanna_Belal_Project1\obj\Debug\net7.0\Muthanna_Belal_Project1.AssemblyInfoInputs.cache
+C:\Users\Belal\Downloads\opencv\Muthanna_Belal_Project1\Muthanna_Belal_Project1\obj\Debug\net7.0\Muthanna_Belal_Project1.AssemblyInfo.cs
+C:\Users\Belal\Downloads\opencv\Muthanna_Belal_Project1\Muthanna_Belal_Project1\obj\Debug\net7.0\Muthanna_Belal_Project1.csproj.CoreCompileInputs.cache
+C:\Users\Belal\Downloads\opencv\Muthanna_Belal_Project1\Muthanna_Belal_Project1\obj\Debug\net7.0\Muthanna_Belal_Project1.dll
+C:\Users\Belal\Downloads\opencv\Muthanna_Belal_Project1\Muthanna_Belal_Project1\obj\Debug\net7.0\refint\Muthanna_Belal_Project1.dll
+C:\Users\Belal\Downloads\opencv\Muthanna_Belal_Project1\Muthanna_Belal_Project1\obj\Debug\net7.0\Muthanna_Belal_Project1.pdb
+C:\Users\Belal\Downloads\opencv\Muthanna_Belal_Project1\Muthanna_Belal_Project1\obj\Debug\net7.0\Muthanna_Belal_Project1.genruntimeconfig.cache
+C:\Users\Belal\Downloads\opencv\Muthanna_Belal_Project1\Muthanna_Belal_Project1\obj\Debug\net7.0\ref\Muthanna_Belal_Project1.dll
