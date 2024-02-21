@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
-using MultilevelMenuExample.Enums;
+using MultilevelMenuExample.Enums;                                      // Money class 
 using Newtonsoft.Json.Linq;
 
 namespace MultilevelMenuExample
@@ -37,7 +37,7 @@ namespace MultilevelMenuExample
 
         public static Money Zero => new Money(0, 0,0);
         public Money(int intPart, int fracPart, Currency Currency)
-        {                                                                                            // Main constructor
+        {                                                                                            // the Main constructor
             setWholeNumber(intPart, fracPart,(Currency)Currency);
         }
 

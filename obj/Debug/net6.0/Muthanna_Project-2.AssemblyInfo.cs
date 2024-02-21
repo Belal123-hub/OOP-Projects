@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Muthanna_Project-2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+875b3199e00f0d4d04bb744a15b9ce6c592822e8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6e175e6105530cc251be821370db79e589824498")]
 [assembly: System.Reflection.AssemblyProductAttribute("Muthanna_Project-2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Muthanna_Project-2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

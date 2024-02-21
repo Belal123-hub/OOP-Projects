@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Belal\\Downloads\\belal_project\\Muthanna_Project_2\\Muthanna_Project-2.csproj": {}
+    "C:\\Users\\Belal\\Downloads\\OOP_projects\\Muthanna_Project_2\\Muthanna_Project-2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Belal\\Downloads\\belal_project\\Muthanna_Project_2\\Muthanna_Project-2.csproj": {
+    "C:\\Users\\Belal\\Downloads\\OOP_projects\\Muthanna_Project_2\\Muthanna_Project-2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Belal\\Downloads\\belal_project\\Muthanna_Project_2\\Muthanna_Project-2.csproj",
+        "projectUniqueName": "C:\\Users\\Belal\\Downloads\\OOP_projects\\Muthanna_Project_2\\Muthanna_Project-2.csproj",
         "projectName": "Muthanna_Project-2",
-        "projectPath": "C:\\Users\\Belal\\Downloads\\belal_project\\Muthanna_Project_2\\Muthanna_Project-2.csproj",
+        "projectPath": "C:\\Users\\Belal\\Downloads\\OOP_projects\\Muthanna_Project_2\\Muthanna_Project-2.csproj",
         "packagesPath": "C:\\Users\\Belal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Belal\\Downloads\\belal_project\\Muthanna_Project_2\\obj\\",
+        "outputPath": "C:\\Users\\Belal\\Downloads\\OOP_projects\\Muthanna_Project_2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Belal\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -65,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
